@@ -20,12 +20,20 @@ To be able to answer this question you would want to calculate the "correlation 
 Skills Utilized:
 
 Data Analysis: Analyzed and processed datasets containing GDP and income inequality data.
+
 Data Visualization: Created scatter plots, line charts, and correlation matrices to visualize relationships and trends.
+
 Data Manipulation: Used pandas library to merge, group, and calculate correlations.
+
 Statistical Analysis: Calculated correlation coefficients to understand the relationship between variables.
+
 Python Programming: Wrote and executed Python code to perform data analysis tasks.
+
 Problem-Solving: Addressed warnings, errors, and data issues during the analysis process.
+
 Communication: Summarized findings and insights in a clear and concise manner.
+
 Research: Explored relevant resources to gather information about data sources and analysis techniques.
+
 Interpretation: Interpreted correlation results in the context of the given problem.
 
